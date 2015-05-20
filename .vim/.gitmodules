@@ -10,18 +10,12 @@
 [submodule "bundle/git"]
 	path = bundle/git
 	url = https://github.com/tpope/vim-git.git
-[submodule "bundle/supertab"]
-	path = bundle/supertab
-	url = https://github.com/ervandew/supertab.git
 [submodule "bundle/command-t"]
 	path = bundle/command-t
 	url = https://github.com/wincent/Command-T.git
 [submodule "pyflakes-pathogen"]
-	path = pyflakes-pathogen
+	path = bundle/pyflakes
 	url = https://github.com/mitechie/pyflakes-pathogen.git
-[submodule "bundle/ack"]
-	path = bundle/ack
-	url = https://github.com/mileszs/ack.vim.git
 [submodule "bundle/gundo"]
 	path = bundle/gundo
 	url = https://github.com/sjl/gundo.vim.git
@@ -43,15 +37,24 @@
 [submodule "bundle/nerdtree"]
 	path = bundle/nerdtree
 	url = https://github.com/vim-scripts/The-NERD-tree.git
-[submodule "bundle.minibufexpl"]
-	path = bundle.minibufexpl
-	url = https://github.com/fholgado/minibufexpl.vim.git
-[submodule "ropevim"]
-	path = ropevim
-	url = https://github.com/python-rope/ropevim.git
 [submodule "bundle/minibufexpl"]
 	path = bundle/minibufexpl
 	url = https://github.com/fholgado/minibufexpl.vim.git
-[submodule "bundle/pyflakes"]
-	path = bundle/pyflakes
-	url = https://github.com/mitechie/pyflakes-pathogen.git
+[submodule "bundle/YouCompleteMe"]
+	path = bundle/YouCompleteMe
+	url = https://github.com/Valloric/YouCompleteMe.git
+[submodule "bundle/jedi-vim"]
+	path = bundle/jedi-vim
+	url = https://github.com/davidhalter/jedi
+[submodule "bundle/STL-Syntax"]
+	path = bundle/STL-Syntax
+	url = https://github.com/Mizuchi/STL-Syntax.git
+[submodule "bundle/tagbar"]
+	path = bundle/tagbar
+	url = https://github.com/majutsushi/tagbar.git
+[submodule "bundle/powerline-vim"]
+	path = bundle/powerline-vim
+	url = https://github.com/Lokaltog/vim-powerline.git
+[submodule "bundle/codeschool-vim-theme"]
+	path = bundle/codeschool-vim-theme
+	url = https://github.com/29decibel/codeschool-vim-theme.git
